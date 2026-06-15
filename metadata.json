@@ -1,0 +1,6 @@
+{
+  "name": "Iqra Admissions Assistant",
+  "description": "AI-powered RAG chatbot with integrated WhatsApp simulator for the Iqra University Admission Department.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
